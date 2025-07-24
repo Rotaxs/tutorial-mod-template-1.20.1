@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 1.0,
+  "group": "yellow_stick_from_yellow_planks_blasting",
+  "ingredient": {
+    "item": "tutorial-mod:yellow_plank"
+  },
+  "result": "tutorial-mod:yellow_stick"
+}

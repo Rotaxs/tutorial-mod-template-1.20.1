@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tutorial-mod:block/red_ball_block"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+// 1.20.1	2025-07-23T13:42:30.3649501	Tutorial Mod/Model Definitions
+e6dbd231f0b22f322e1a32633e41afb03badc36b assets\tutorial-mod\blockstates\red_ball_block.json
+cbfccdd291ebd483c7a207bad8075bd08bd14888 assets\tutorial-mod\models\item\yellow_plank.json
+24092d537ae5b3545e63402b6b7f3398e285b915 assets\tutorial-mod\models\item\blue_ball_block.json
+035033a6a50617bb567d53b152077dfea9203d4b assets\tutorial-mod\models\item\ball\red_ball.json
+2e9e2b0516399bd8e1d5175f62973c5e08b753bd assets\tutorial-mod\models\item\green_stick.json
+319757b1c811af1456012db14105411cccd48e3c assets\tutorial-mod\models\block\green_plank.json
+038d50ea62759ed2f24281b6009a6f3326bde3f5 assets\tutorial-mod\blockstates\green_plank.json
+82889ed88958a508bfcae00aa9b6c5dad1d88d6e assets\tutorial-mod\blockstates\yellow_plank.json
+ca7692b02e45fb1d36bc42cd7207fc460d836cde assets\tutorial-mod\blockstates\blue_ball_block.json
+078632fad85a8e2377eab84f6af6b007847d4c3b assets\tutorial-mod\models\block\red_ball_block.json
+b280c05b22afc0d2f4f7ee313c11607c8155f34b assets\tutorial-mod\models\item\red_ball_block.json
+2ed4757b5cb2e1cf92185c20604553eaaa311607 assets\tutorial-mod\models\block\blue_ball_block.json
+515356d8f0211bd6a531ca1449291152e04ff372 assets\tutorial-mod\models\item\ball\blue_ball.json
+17d1e00df01cf13e068f03f0b987117e423a5216 assets\tutorial-mod\models\item\green_plank.json
+2416b9ca902b7ab3fefa6a4cc6eeea652930d2a0 assets\tutorial-mod\models\block\yellow_plank.json
+73e1fcdb3fec6b767ab18aa63dfd7123be659319 assets\tutorial-mod\models\item\yellow_stick.json

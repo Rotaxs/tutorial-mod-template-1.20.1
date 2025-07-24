@@ -1,0 +1,11 @@
+{
+  "block.tutorial-mod.blue_ball_block": "蓝球方块",
+  "block.tutorial-mod.green_plank": "绿色木板",
+  "block.tutorial-mod.red_ball_block": "红球方块",
+  "block.tutorial-mod.yellow_plank": "黄色木板",
+  "item.tutorial-mod.ball.blue_ball": "蓝球",
+  "item.tutorial-mod.ball.red_ball": "红球",
+  "item.tutorial-mod.green_stick": "绿色木棍",
+  "item.tutorial-mod.yellow_stick": "黄色木棍",
+  "itemGroup.tutorial_group": "样例物品"
+}

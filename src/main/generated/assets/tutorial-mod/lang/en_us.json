@@ -1,0 +1,11 @@
+{
+  "block.tutorial-mod.blue_ball_block": "blue ball block",
+  "block.tutorial-mod.green_plank": "green plank",
+  "block.tutorial-mod.red_ball_block": "red ball block",
+  "block.tutorial-mod.yellow_plank": "yellow plank",
+  "item.tutorial-mod.ball.blue_ball": "blue ball",
+  "item.tutorial-mod.ball.red_ball": "red ball",
+  "item.tutorial-mod.green_stick": "green stick",
+  "item.tutorial-mod.yellow_stick": "yellow stick",
+  "itemGroup.tutorial_group": "tutorial items"
+}
